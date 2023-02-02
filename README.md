@@ -4,12 +4,6 @@
 
 Make sure you have _nvim_ installed.
 
-## You might need to install ripgrep if not already installed
-
-```Bash
-brew install ripgrep
-```
-
 ## Setup Guide
 
 ```Bash
